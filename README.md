@@ -1,0 +1,1 @@
+## Clip art from openclipart
