@@ -2,9 +2,10 @@ body {
   margin: 0;
 }
 
+/* index styles */
 .header{
   display: flex;
-  justify-content: center;  
+  justify-content: center;
 }
 
 .buttons-main{
@@ -17,4 +18,28 @@ body {
   width: 100px;
   height: 50px;
   text-align: center;
+}
+
+/*strings page styles */
+.section-wrapper{
+  display: flex;
+  justify-content: space-around;
+}
+
+.strings-box{
+  border: solid 1px black;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  padding: 15px;
+}
+
+.strings-box img{
+  height: 170px;
+  width: auto;
+}
+
+.strings-header{
+  text-align: center;
+  padding: 15vh 0;
 }
