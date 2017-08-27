@@ -6,6 +6,8 @@ body {
 .header{
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  height: 3vh;
 }
 
 .buttons-main{
@@ -24,22 +26,25 @@ body {
 .section-wrapper{
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 
-.strings-box{
+.box{
   border: solid 1px black;
   width: 250px;
   height: 250px;
   text-align: center;
   padding: 15px;
+  margin: 5px;
 }
 
-.strings-box img{
-  height: 170px;
+.box img{
+  height: 160px;
   width: auto;
+
 }
 
-.strings-header{
+.header{
   text-align: center;
   padding: 15vh 0;
 }
