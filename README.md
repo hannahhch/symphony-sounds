@@ -10,3 +10,7 @@ Source: [openclipart](https://openclipart.org/)
 ### Sound Files
 
 Source: [philharmonia orchestra](http://www.philharmonia.co.uk/explore/sound_samples)
+
+### Music Note Background
+
+Source: [Vecteezy](https://www.vecteezy.com/vector-art/72903-musical-notes-pattern)
