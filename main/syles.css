@@ -11,6 +11,8 @@ body {
   background-color: white;
   font-size: 4em;
   margin: 50px 0;
+  border-top: solid 4px #9370DB;
+  border-bottom: solid 4px #9370DB;
 }
 
 .wrapper{
@@ -38,7 +40,7 @@ p{
   margin: 35px;
   text-align: center;
 }
-.links a{
+h3{
   font-family: 'Raleway';
   font-size: 2em;
   padding: 5px;
