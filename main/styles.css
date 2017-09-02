@@ -28,6 +28,16 @@ body {
   border-bottom: solid 4px #9370DB;
 }
 
+.main-head{
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  font-size: 6em;
+  margin: 50px 0;
+  border-top: solid 4px #9370DB;
+  border-bottom: solid 4px #9370DB;
+}
+
 .wrapper{
   height: 100vh;
 }
