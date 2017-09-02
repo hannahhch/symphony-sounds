@@ -4,6 +4,19 @@ body {
   height: 100vh;
 }
 
+.back{
+  font-family: 'Raleway';
+  text-transform: capitalize;
+  padding: 10px;
+  font-size: 30px;
+  background-color: white;
+  border: solid 1px black;
+  color: black;
+  text-transform: uppercase;
+
+
+}
+
 /* index styles */
 .head{
   display: flex;
