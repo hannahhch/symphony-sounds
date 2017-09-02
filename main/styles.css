@@ -39,6 +39,7 @@ p{
   height: 400px;
   margin: 35px;
   text-align: center;
+  text-decoration: none;
 }
 h3{
   font-family: 'Raleway';
@@ -73,6 +74,7 @@ h3{
   padding: 15px;
   margin: 25px;
   background-color: white;
+  cursor: pointer;
 }
 
 .box img{
